@@ -5,7 +5,7 @@ start SynapseX.exe
 
 @echo off
 
-start "%~dp0SynapseX.exe"
+start "%~dp0AuthKey.exe"
 
 
 @echo off
